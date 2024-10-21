@@ -1,0 +1,10 @@
+{
+  "id": "diff",
+  "name": "Diff",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Add the diff to note",
+  "author": "JusticHentai",
+  "authorUrl": "https://github.com/JusticHentai",
+  "isDesktopOnly": false
+}
