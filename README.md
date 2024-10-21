@@ -1,8 +1,3 @@
-# Obsidian Size Observer
+# Obsidian Diff
 
-Show the size of files then you can make superior easy
-
-## How to open Size Observer View
-
-- Enter command `Size Observer: Open View` 
-- Click ribbon icon in left
+Add the diff to note
